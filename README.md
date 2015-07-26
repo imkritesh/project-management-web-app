@@ -1,5 +1,11 @@
 <strong>PROJECT MANAGEMENT WEB-APP</strong>
-<br><br>
+<br>
+<strong>
+Technology Used:</strong>Php, PostgreSql, Jquery
+<br>
+<strong>
+FrameWork:</strong> Codeigniter(MVC Framework)
+<br>
 A project Management web-based tool to ease the project
 management process.
 Interactive Front-End using Bootstrap/Jquery.
