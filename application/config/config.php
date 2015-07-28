@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = 'https://project-manager-utility.herokuapp.com/';
+$config['base_url'] = 'https://project-manager-utility.herokuapp.com/index.php';
 
 /*
 |--------------------------------------------------------------------------
